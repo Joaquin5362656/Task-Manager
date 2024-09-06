@@ -1,21 +1,7 @@
-# Entornos virtuales
-venv/
-*.pyc
-__pycache__/
-
-# Archivos de configuración local
-.env
-
-# Dependencias
-*.log
-*.sqlite3
-
-# Directorios de caché de Python
-*.py[cod]
-__pycache__/
-*.so
-
-# Archivos de configuración del sistema
-.DS_Store
-.idea/
 .vscode/
+.idea/
+
+__pycache__/
+.venv/
+
+.env
